@@ -1,6 +1,6 @@
 # 🚀 BroCode Java Journey
 
-Welcome to my Java learning repository! I am a former Technion Engineering student currently mastering Java and Linux environments (WSL) to prepare for a career in high-tech (Target: Nvidia).
+Welcome to my Java learning repository! I am a former Technion  student currently mastering Java and Linux environments (WSL) to prepare for a career in high-tech (Target: Nvidia).
 
 ## 🛠 Tech Stack
 * **Language:** Java 17
