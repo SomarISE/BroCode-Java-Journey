@@ -7,7 +7,12 @@ public class Variables {
         boolean isJavaFun = true;
         char symbol = '#';
         String phrase = "Hello Nvidia";
-        
+
         System.out.println(phrase + "! x is " + x);
+
+        
+
+
+
     }
 }
